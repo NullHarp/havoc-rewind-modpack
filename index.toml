@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "ed072c3352c2f861563266e4d091c6acb98b2be2a3c2cf2be2c6448231a25184"
+hash = "d6d91f6f5547da8deb9d48c1edb6cb4c739c5c9cf3d3c8e21489a19c2ae33468"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "105da86c9ca608ee864230ea808a5a0b92680436133894c747b361e3e9dbda95"
+hash = "b258bc6e70703fb7092ccdae78a897ff8276e9cec3f02b4aea4f9358544b06db"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "43fb2a48d859efd4bcf33fd74a6004224d1d848a27190e299f7588e6e73c9a51"
+hash = "d175cd69e5329c94e31b5413170806b7712311b77aff638b81f146adc4f51a9f"
 metafile = true
 
 [[files]]
@@ -405,6 +405,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "af138ead9ed4013fab79bd0ebda5cd381c982dd6513e96f13d324a06e374cdd2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "ec9e13fc5fa49d1aa91d51ac05c7056578056a5fd03c96e084a4eec80aeda678"
 metafile = true
 
 [[files]]
@@ -460,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2d683282cac3f3b370fef785630ecf14303c204ad542d7f0d903a261f20fee3d"
+hash = "2bf95bf49b10b3553ebd5ed9f12a7944255a23b473d203ea4ee40f6edaa00f21"
 metafile = true
 
 [[files]]
@@ -515,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "74b0ee0aabd6e03f06d69a5e3098b49a91e25d35c3ba6f87f0f1d5af7bc83193"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
 metafile = true
 
 [[files]]
@@ -578,7 +593,7 @@ hash = "9d3d9a195857e5b0b29aefd50702b89fe005c3b66d249ef3441cdb6afe0cb598"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "161f96a7d70482c0dfe1ff2e3129cb1332373b976ad3c12fed4196a4d547f637"
+hash = "89cd908f4252f81d1cff156936d43382b04d4c1367b808d107e85e0da9489368"
 metafile = true
 
 [[files]]
@@ -598,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad477cc068e4c48362dfa64995f0af77e382999f4a3167f08a22f612a5202fee"
+hash = "4f90c8b7829ec598b35da2701909869a1663a6879dca0c5b4457f401bfb43b5e"
 metafile = true
 
 [[files]]
@@ -618,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "44f671b649c0cf10920267150fab267be7a9733e635a39d320081bffe4fd402f"
 metafile = true
 
 [[files]]
@@ -826,12 +846,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d2db5991145781545ba9c5b61a66cd60af627084d4ba5cf99569419d1e884799"
+hash = "8f9f7d6c090831582563bdb20da09ac43456c733dba3bc3cefd604c6798accbb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c870e9bccd287ad328e7b7a36125fa6d34ecb26e2a9430cc076f97697042ec53"
+hash = "9d270aaf3c530c49d85fe65a32ac19f65481e259a8ee20543d9cfea27cb44d90"
 metafile = true
 
 [[files]]
