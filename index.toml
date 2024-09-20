@@ -297,6 +297,11 @@ hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "d8f52da66536863a24f44cc7c6b9c8c9000d67e75c566f87d1b42e3842af1f32"
+metafile = true
+
+[[files]]
 file = "mods/design_decor-0.4.0b-1.20.1.jar"
 hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
 
