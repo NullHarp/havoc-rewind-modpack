@@ -1,0 +1,13 @@
+name = "Havoc Rewind"
+author = "NullHarp,Dj,Adam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ba7111f249ed588a58aa66526dede4f78cb5efcc989821b092254b491f76088"
+
+[versions]
+forge = "47.3.6"
+minecraft = "1.20.1"
