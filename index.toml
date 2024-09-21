@@ -25,8 +25,8 @@ file = "mods/ThermalExtra-3.1.7-1.20.1.jar"
 hash = "02efac62f9a9538528455dfbf032042a922e9d27a315271649bc6c1ba81a237e"
 
 [[files]]
-file = "mods/VMod-Forge-1.20.1-0.0.11.jar"
-hash = "50c5a9e3b7ce8af3622014fb0ef470d7eda3e61f9b3e9a6f55488896b147b67b"
+file = "mods/VMod-Forge-1.20.1-0.0.11.b.jar"
+hash = "3f50d448de71e6bb65712b2e30bea583893265faf46d6cc3deaf24c158eec610"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -257,6 +257,11 @@ hash = "683a4f5095c69f127e789dbbde972334a51cc4a9e74e3e150df8873558aff11f"
 metafile = true
 
 [[files]]
+file = "mods/create-refined-storage-recipes.pw.toml"
+hash = "28a041f8d602daef83d2d4af527ee90f710723b5a5f4c90a9843f50ac5571a46"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
 metafile = true
@@ -325,6 +330,11 @@ hash = "d6d91f6f5547da8deb9d48c1edb6cb4c739c5c9cf3d3c8e21489a19c2ae33468"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "e3068c3e059283c0b24c71f79f84c7cb79d739831887e2b2e801142633904591"
 metafile = true
@@ -366,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "10bfafb3710cee8e1e4a7fe81f23fe77aa30beb171101843bc6b8dff9872dc82"
 metafile = true
 
 [[files]]
@@ -460,6 +475,11 @@ file = "mods/hextweaks-4.0.0.jar"
 hash = "5a16ea9a6c6fbcf7754210243b2d055f9f25bf808ec73fee0571db7e510fb626"
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "0508216cc4c57cc5214d1105142e50df880ad9102de1d485ee8ced284524ce64"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
@@ -524,6 +544,11 @@ hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "de11f7238ed12518a874ea67a1051db095d92c65a073ab8391db6c17645b5074"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "74b0ee0aabd6e03f06d69a5e3098b49a91e25d35c3ba6f87f0f1d5af7bc83193"
 metafile = true
@@ -531,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
 metafile = true
 
 [[files]]
@@ -662,8 +692,48 @@ hash = "9c76f9868a3396ebf69e03e9559e83400fd787af0483cb153f8a326c68363792"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ca582093870dc726c1ce366843b8aee8ee761550cb4daed58d6f5ac9be4af956"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "9e8a1ea51980865c648e6f45d7b0b78962ab5f933c2a8f4aaf350abe3091687c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "cc2dcec181cca133808ea514fbd00a236a9ef0b25fb872c43f7af9c89784522d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "31330396a5a0539a4993c38a7344cfef327e5da7d62888174bbf4e5397f56aca"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "d282db574ec0a8c9e6a9d249e8ffca5015c995a21849c7874559f85f72b638df"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "b34cb16f75e0bd74cd47d517f808cd4fe7b0550d217003009c344ba463f17bbe"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "700fd4c9a5df3dc32fd01aebaeb038bc223ebe8d32e45b2997b8942538b08a80"
 metafile = true
 
 [[files]]
@@ -857,6 +927,16 @@ metafile = true
 [[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "63e4f4aa181a928657e1dfe7ef3e94dfcaaf10f2d7c42613f299f517aa2fb9a8"
+metafile = true
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "9f18bc9516e9075b80cd9dd299faa87a92dc64dd03cc83609e31374857c2487e"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "aa7f10fc9d64f50c305e1b74d9e6718f7b9dad7a61afe912e794cd0247f6228d"
 metafile = true
 
 [[files]]
