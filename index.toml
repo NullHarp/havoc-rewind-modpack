@@ -153,6 +153,11 @@ hash = "5deb6017b48b04ffffcd2cbc1eae9c6df4be788f9993f5b0835b62eeaf5e9aba"
 metafile = true
 
 [[files]]
+file = "mods/chemlib.pw.toml"
+hash = "882da059a6d7439b9cdf746813c61ce1e8e73c00a88e4e0cbe4412d4c312702a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -337,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "90949d3032e45e834dc8b2b3c01a40c73d22c9eb827835aa0b831b625a2c5a3c"
 metafile = true
 
 [[files]]
@@ -566,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-abridged.pw.toml"
+hash = "959143b5f2c74ceef3bdc81b24ba3d381e72c5298022b1dcae30c7b875b7fc44"
 metafile = true
 
 [[files]]
