@@ -13,6 +13,10 @@ file = "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar"
 hash = "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d"
 
 [[files]]
+file = "mods/ImmersiveEngineering-1.20.1-10.1.0-171.jar"
+hash = "bbb04345b8263b1de026521500e28ceba207470e0dd78c9f022331d7fbca42d2"
+
+[[files]]
 file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
 hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
 
@@ -150,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/ccdbridge.pw.toml"
 hash = "5deb6017b48b04ffffcd2cbc1eae9c6df4be788f9993f5b0835b62eeaf5e9aba"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "882da059a6d7439b9cdf746813c61ce1e8e73c00a88e4e0cbe4412d4c312702a"
 metafile = true
 
 [[files]]
@@ -337,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "90949d3032e45e834dc8b2b3c01a40c73d22c9eb827835aa0b831b625a2c5a3c"
 metafile = true
 
 [[files]]
@@ -612,6 +626,10 @@ metafile = true
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "009a6e264409c67bfdbfa0951d5026e19a245b20199191c293ff3670e7e13045"
 metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires-1.20.1-1.1.4.jar"
+hash = "e3158d211a3dac5d17ae760779c7595800be248852ec8a6d8c257b125bc977fb"
 
 [[files]]
 file = "mods/more-mekanism-processing.pw.toml"
