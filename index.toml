@@ -48,6 +48,16 @@ hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
 
 [[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "ad8e84dc8f6d5ccf78432345cec082c76a2f828b8e014986cf3080626cd0840e"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "443eeba299b820216c4da449a71138104a57274909e71e9a0f26c4709f47506e"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "dbebcab51da752a59d057d50f02ced6d3cce3270389f52c414d034f000674790"
 metafile = true
