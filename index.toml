@@ -479,11 +479,6 @@ file = "mods/geckolib-forge-1.20.1-4.4.7.jar"
 hash = "ae7da8152c6f04767d2d6092db5fc85ca5985f47a3ce164869686a9373af4555"
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "8359f7d6e36afe49ee230ca050f7f6e9a707f2bf852af77e7d6b4d6a53b9a98a"
-metafile = true
-
-[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
 metafile = true
