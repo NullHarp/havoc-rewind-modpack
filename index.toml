@@ -542,10 +542,6 @@ hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
 metafile = true
 
 [[files]]
-file = "mods/kontraption-0.0.3+966afb2336.jar"
-hash = "a1f5795a686287ca1e115eda05b8543d7eb472ef2256b9f4230f7900d60011fc"
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
