@@ -475,8 +475,9 @@ hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-forge-1.20.1-4.4.7.jar"
-hash = "ae7da8152c6f04767d2d6092db5fc85ca5985f47a3ce164869686a9373af4555"
+file = "mods/geckolib.pw.toml"
+hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
+metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
