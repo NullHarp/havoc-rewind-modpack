@@ -405,11 +405,6 @@ hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
-metafile = true
-
-[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "10bfafb3710cee8e1e4a7fe81f23fe77aa30beb171101843bc6b8dff9872dc82"
 metafile = true
@@ -712,6 +707,11 @@ hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
@@ -928,11 +928,6 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
-metafile = true
-
-[[files]]
-file = "mods/trackwork.pw.toml"
-hash = "ab438968091b1b54e582d55dce7ece1c6aa50488b98fab101ec7c9e9aab79bc2"
 metafile = true
 
 [[files]]
