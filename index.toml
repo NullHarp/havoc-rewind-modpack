@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ClockworkAdditions-1.20.1-0.0.5-forge-and-fabric.jar"
-hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
-
-[[files]]
 file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
@@ -27,10 +23,6 @@ hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 [[files]]
 file = "mods/ThermalExtra-3.1.7-1.20.1.jar"
 hash = "02efac62f9a9538528455dfbf032042a922e9d27a315271649bc6c1ba81a237e"
-
-[[files]]
-file = "mods/VMod-Forge-1.20.1-0.0.11.b.jar"
-hash = "3f50d448de71e6bb65712b2e30bea583893265faf46d6cc3deaf24c158eec610"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -228,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "9cd251a37680c6648f56c0fade3f9afb15b25adde0ce5d7cc238f6efd049afaf"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
 metafile = true
 
 [[files]]
@@ -690,11 +677,6 @@ hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
-file = "mods/peripheralium.pw.toml"
-hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
@@ -747,11 +729,6 @@ metafile = true
 [[files]]
 file = "mods/rftools-control.pw.toml"
 hash = "cc2dcec181cca133808ea514fbd00a236a9ef0b25fb872c43f7af9c89784522d"
-metafile = true
-
-[[files]]
-file = "mods/rftools-dimensions.pw.toml"
-hash = "31330396a5a0539a4993c38a7344cfef327e5da7d62888174bbf4e5397f56aca"
 metafile = true
 
 [[files]]
@@ -894,10 +871,6 @@ hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
 metafile = true
 
 [[files]]
-file = "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
-hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
-
-[[files]]
 file = "mods/trackwork.pw.toml"
 hash = "ab438968091b1b54e582d55dce7ece1c6aa50488b98fab101ec7c9e9aab79bc2"
 metafile = true
@@ -913,23 +886,8 @@ hash = "bb7a92381b433c5411df47d266abd4c809b17bb9265d128f794296832ae70694"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-relogs.pw.toml"
-hash = "b51764dfda49b522a09c75a3cf93624bf44611aa450f0124808f0d6dbdd68945"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
-metafile = true
-
-[[files]]
 file = "mods/vanishmod.pw.toml"
 hash = "04af37f997dd03f5c66db3105f0a72746d1a0685e3c84a5a0f61ae6cb5c7224a"
-metafile = true
-
-[[files]]
-file = "mods/vs-addition.pw.toml"
-hash = "901bc6851dda9df6e18f87f6a571240eb75c7a1eda4bf0f6359dcad6e03c7672"
 metafile = true
 
 [[files]]
