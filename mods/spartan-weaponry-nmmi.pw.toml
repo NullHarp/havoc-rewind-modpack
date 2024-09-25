@@ -1,0 +1,13 @@
+name = "Spartan Weaponry: NMMI"
+filename = "spartan_weaponry_ores-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc7777d8678fa9f93a1f34834849091c96e83452"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5754528
+project-id = 1108681
