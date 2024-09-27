@@ -70,6 +70,11 @@ hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "9bd97f776c321a330b117f83f3632c867dd60c61cffabe51ce18c2dd19e24458"
 metafile = true
@@ -122,6 +127,16 @@ metafile = true
 [[files]]
 file = "mods/bigger-ae2.pw.toml"
 hash = "580cb408b6fb46812dba8a9441752a6fa95ca336c2f1537f31e14767757a879d"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "ac2fd14944240e2c6726a32e0dd4e58045dc140cb51203dc106ff1cefd8616a0"
+metafile = true
+
+[[files]]
+file = "mods/botanic-pledge.pw.toml"
+hash = "98f6276da0a36a201ef97f86dc697296b94369602fd192ab2bd3a766c52a4e10"
 metafile = true
 
 [[files]]
@@ -507,6 +522,11 @@ hash = "0508216cc4c57cc5214d1105142e50df880ad9102de1d485ee8ced284524ce64"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
@@ -589,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
+metafile = true
+
+[[files]]
+file = "mods/mechanical-botania-revived.pw.toml"
+hash = "c7fe8ed88fd2f7739de5c70c183fefde759f6c4ae94b5f11d78a81e75abe6b8c"
 metafile = true
 
 [[files]]
@@ -736,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "9c76f9868a3396ebf69e03e9559e83400fd787af0483cb153f8a326c68363792"
+metafile = true
+
+[[files]]
+file = "mods/rbasamoyais-betsy-ross.pw.toml"
+hash = "560a6c1bfea921975f3cd29d32c6840579a3ba1e9c9f4bc932f5c17426131709"
 metafile = true
 
 [[files]]
