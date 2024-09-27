@@ -612,9 +612,8 @@ hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
 metafile = true
 
 [[files]]
-file = "mods/mechanical-botania-revived.pw.toml"
-hash = "c7fe8ed88fd2f7739de5c70c183fefde759f6c4ae94b5f11d78a81e75abe6b8c"
-metafile = true
+file = "mods/mechanicalbotania-1.0.1.jar"
+hash = "dd5aaf958bc8d32d6dcd06e8543f6ec5beca9e2ebba69105d85e556979045ed1"
 
 [[files]]
 file = "mods/mekanism-abridged.pw.toml"
