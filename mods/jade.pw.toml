@@ -1,6 +1,6 @@
 name = "Jade 🔍"
 filename = "Jade-1.20.1-forge-11.10.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
